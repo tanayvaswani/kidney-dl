@@ -2,7 +2,9 @@
 
 This project involves deep learning models implemented in Python. We use `conda` for managing the environment and `pip` for installing additional dependencies.
 
-> **Note:** The project is still under development.
+> [!NOTE]
+>
+> The project is still under development.
 
 ## Table of Contents
 
