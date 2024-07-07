@@ -8,12 +8,26 @@ This project involves deep learning models implemented in Python. We use `conda`
 
 - [Deep Learning Kidney Disease Classification](#deep-learning-kidney-disease-classification)
   - [Table of Contents](#table-of-contents)
+  - [Workflows](#workflows)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
     - [Steps](#steps)
   - [Contributing](#contributing)
   - [License](#license)
   - [Additional Files](#additional-files)
+
+## Workflows
+
+1. Update config/config.yaml
+2. Update secrets.yaml [Optional]
+3. Update src/kidney_dl/params.yaml
+4. Update the entity
+5. Update the configuration manager in src/config/configuration.py
+6. Update the components (data ingestion, model preparation, model evalutation, etc.)
+7. Update the pipeline (training & prediction pipelines)
+8. Update the main.py (containing endpoints)
+9. Update the dvc.yaml (tracking the pipeline)
+10. Update the app.py
 
 ## Installation
 
