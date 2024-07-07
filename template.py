@@ -32,8 +32,8 @@ for filepath in project_structure:
     filepath = Path(filepath) # Necessary for windows only
     filedir, filename = os.path.split(filepath)
 
-    if filedir !="":
-        os.makedirs(filedir, exist_ok=True)
+    if filedir != "":
+        os.makedirs(filedir, exist_ok = True)
         logging.info(f"Creating directory {filedir} for the file: {filename}")
 
     if (not os.path.exists(filepath)) or (os.path.getsize(filepath) == 0):
