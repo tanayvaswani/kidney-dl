@@ -7,7 +7,7 @@ __version__ = "0.0.0"
 
 REPO_NAME = "kidney-dl"
 AUTHOR_USER_NAME = "tanayvaswani"
-SRC_REPO = "kidney-dl"
+SRC_REPO = "kidney_dl"
 AUTHOR_EMAIL = "vaswani.tanay9@gmail.com"
 
 setuptools.setup(
