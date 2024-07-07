@@ -24,15 +24,15 @@ Ensure you have [conda](https://docs.conda.io/projects/conda/en/latest/user-guid
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/tanayvaswani/kidney-dl.git
-   cd kidney-dl
+    git clone https://github.com/tanayvaswani/kidney-dl.git
+    cd kidney-dl
    ```
 
 2. **Create and activate the conda environment**
 
    ```bash
-       conda create -p venv python=3.10 -y
-       conda activate venv/
+    conda create -p venv python=3.10 -y
+    conda activate venv/
    ```
 
 3. **Install dependencies**
@@ -40,7 +40,7 @@ Ensure you have [conda](https://docs.conda.io/projects/conda/en/latest/user-guid
    We use pip to install dependencies.
 
    ```bash
-       pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
 ## Contributing
