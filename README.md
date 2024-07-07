@@ -1,10 +1,12 @@
-# Deep Learning Kidney Disease Classification (in progress...)
+# Deep Learning Kidney Disease Classification
 
 This project involves deep learning models implemented in Python. We use `conda` for managing the environment and `pip` for installing additional dependencies.
 
+> **Note:** The project is still under development.
+
 ## Table of Contents
 
-- [Deep Learning Kidney Disease Classification (in progress...)](#deep-learning-kidney-disease-classification-in-progress)
+- [Deep Learning Kidney Disease Classification](#deep-learning-kidney-disease-classification)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
     - [Prerequisites](#prerequisites)
