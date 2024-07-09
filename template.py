@@ -7,7 +7,7 @@ logging.basicConfig(
     format = '[%(asctime)s]: %(message)s:'
 )
 
-project_name = 'kidney-dl'
+project_name = 'kidney_dl'
 
 project_structure = [
     ".github/workflows/.gitkeep",
