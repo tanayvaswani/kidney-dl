@@ -22,7 +22,7 @@ This project involves deep learning models implemented in Python. We use `conda`
 
 1. Update config/config.yaml
 2. Update secrets.yaml [Optional]
-3. Update src/kidney_dl/params.yaml
+3. Update params.yaml
 4. Update the entity
 5. Update the configuration manager in src/config/configuration.py
 6. Update the components (data ingestion, model preparation, model evalutation, etc.)
